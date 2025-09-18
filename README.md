@@ -17,7 +17,7 @@
 <h2>🎥 Tutorial Video</h2>
 <p>Watch the step-by-step guide on how to set up and play the game:</p>
 
-<a href="https://github.com/Ayushdu37/Flappy-Bird/releases/download/v1.0.0/Flappy.Bird.Tutorial.mp4">
+<a href="https://raw.githubusercontent.com/Ayushdu37/Flappy-Bird/main/src/assets/Flappy%20Bird%20Tutorial.mp4">
   <img src="https://raw.githubusercontent.com/Ayushdu37/Flappy-Bird/main/src/assets/TutorialThumbnail.png" 
        alt="Watch the Tutorial" width="600">
 </a>
